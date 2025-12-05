@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @verdechoque
 - 👀 I’m interested in coding, UI/UX design, Graphic Design, NLP, Linguistics, ML
-- 🌱 I’m currently learning Web development (Java + Angular)
+- 🌱 I work in IT consultANCY
 - 💞️ I’m looking to collaborate on whatever I can
 - 📫 How to reach me verdechoque@gmail.com
 
